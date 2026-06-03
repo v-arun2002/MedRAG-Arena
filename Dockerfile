@@ -27,4 +27,4 @@ ENV STREAMLIT_SERVER_HEADLESS=true
 ENV STREAMLIT_BROWSER_GATHER_USAGE_STATS=false
 
 # Run the app
-CMD ["streamlit", "run", "app.py", "--server.port=7860", "--server.address=0.0.0.0"]
+CMD ["sh", "-c", "python startup.py && streamlit run app.py --server.port=7860 --server.address=0.0.0.0"]

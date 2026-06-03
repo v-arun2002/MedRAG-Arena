@@ -1,0 +1,338 @@
+[
+  {
+    "id": "T1_001",
+    "question": "What is sepsis?",
+    "tier": 1,
+    "category": "factual",
+    "expected_source": "pubmed"
+  },
+  {
+    "id": "T1_002",
+    "question": "What are the symptoms of type 2 diabetes?",
+    "tier": 1,
+    "category": "factual",
+    "expected_source": "pubmed"
+  },
+  {
+    "id": "T1_003",
+    "question": "What is MRSA?",
+    "tier": 1,
+    "category": "factual",
+    "expected_source": "pubmed"
+  },
+  {
+    "id": "T1_004",
+    "question": "What causes Alzheimer's disease?",
+    "tier": 1,
+    "category": "factual",
+    "expected_source": "pubmed"
+  },
+  {
+    "id": "T1_005",
+    "question": "What is cardiovascular disease?",
+    "tier": 1,
+    "category": "factual",
+    "expected_source": "pubmed"
+  },
+  {
+    "id": "T1_006",
+    "question": "What are the risk factors for sepsis?",
+    "tier": 1,
+    "category": "factual",
+    "expected_source": "pubmed"
+  },
+  {
+    "id": "T1_007",
+    "question": "What medications are used to treat type 2 diabetes?",
+    "tier": 1,
+    "category": "factual",
+    "expected_source": "pubmed"
+  },
+  {
+    "id": "T1_008",
+    "question": "What is the mortality rate for septic shock?",
+    "tier": 1,
+    "category": "factual",
+    "expected_source": "pubmed"
+  },
+  {
+    "id": "T1_009",
+    "question": "What is CLABSI?",
+    "tier": 1,
+    "category": "factual",
+    "expected_source": "cms"
+  },
+  {
+    "id": "T1_010",
+    "question": "What is a hospital acquired infection?",
+    "tier": 1,
+    "category": "factual",
+    "expected_source": "pubmed"
+  },
+  {
+    "id": "T1_011",
+    "question": "What are the stages of Alzheimer's disease?",
+    "tier": 1,
+    "category": "factual",
+    "expected_source": "pubmed"
+  },
+  {
+    "id": "T1_012",
+    "question": "What is insulin resistance?",
+    "tier": 1,
+    "category": "factual",
+    "expected_source": "pubmed"
+  },
+  {
+    "id": "T1_013",
+    "question": "What is the role of antibiotics in sepsis treatment?",
+    "tier": 1,
+    "category": "factual",
+    "expected_source": "pubmed"
+  },
+  {
+    "id": "T1_014",
+    "question": "What is heart failure?",
+    "tier": 1,
+    "category": "factual",
+    "expected_source": "pubmed"
+  },
+  {
+    "id": "T1_015",
+    "question": "What is the SIR score in hospital infection reporting?",
+    "tier": 1,
+    "category": "factual",
+    "expected_source": "cms"
+  },
+  {
+    "id": "T1_016",
+    "question": "What are common treatments for cardiovascular disease?",
+    "tier": 1,
+    "category": "factual",
+    "expected_source": "pubmed"
+  },
+  {
+    "id": "T1_017",
+    "question": "What is cognitive decline in the context of dementia?",
+    "tier": 1,
+    "category": "factual",
+    "expected_source": "pubmed"
+  },
+  {
+    "id": "T1_018",
+    "question": "How is sepsis diagnosed?",
+    "tier": 1,
+    "category": "factual",
+    "expected_source": "pubmed"
+  },
+  {
+    "id": "T2_001",
+    "question": "What is the relationship between diabetes and cardiovascular risk?",
+    "tier": 2,
+    "category": "comparative",
+    "expected_source": "pubmed"
+  },
+  {
+    "id": "T2_002",
+    "question": "Which states have the highest average MRSA infection rates?",
+    "tier": 2,
+    "category": "analytical",
+    "expected_source": "cms"
+  },
+  {
+    "id": "T2_003",
+    "question": "How does sepsis progression differ between ICU and non-ICU patients?",
+    "tier": 2,
+    "category": "comparative",
+    "expected_source": "pubmed"
+  },
+  {
+    "id": "T2_004",
+    "question": "Which states have the lowest average hospital quality ratings?",
+    "tier": 2,
+    "category": "analytical",
+    "expected_source": "cms"
+  },
+  {
+    "id": "T2_005",
+    "question": "What is the difference between CAUTI and CLABSI infections?",
+    "tier": 2,
+    "category": "comparative",
+    "expected_source": "pubmed"
+  },
+  {
+    "id": "T2_006",
+    "question": "How does Alzheimer's disease differ from other forms of dementia?",
+    "tier": 2,
+    "category": "comparative",
+    "expected_source": "pubmed"
+  },
+  {
+    "id": "T2_007",
+    "question": "Which hospital types have the highest overall quality ratings?",
+    "tier": 2,
+    "category": "analytical",
+    "expected_source": "cms"
+  },
+  {
+    "id": "T2_008",
+    "question": "What are the outcomes of early versus late antibiotic treatment in sepsis?",
+    "tier": 2,
+    "category": "comparative",
+    "expected_source": "pubmed"
+  },
+  {
+    "id": "T2_009",
+    "question": "How do SGLT2 inhibitors compare to GLP-1 agonists for diabetes treatment?",
+    "tier": 2,
+    "category": "comparative",
+    "expected_source": "pubmed"
+  },
+  {
+    "id": "T2_010",
+    "question": "What percentage of hospitals provide emergency services?",
+    "tier": 2,
+    "category": "analytical",
+    "expected_source": "cms"
+  },
+  {
+    "id": "T2_011",
+    "question": "How does cardiovascular disease risk change with age?",
+    "tier": 2,
+    "category": "comparative",
+    "expected_source": "pubmed"
+  },
+  {
+    "id": "T2_012",
+    "question": "Which states have the most hospitals with a 5-star rating?",
+    "tier": 2,
+    "category": "analytical",
+    "expected_source": "cms"
+  },
+  {
+    "id": "T2_013",
+    "question": "What are the differences between sepsis, severe sepsis, and septic shock?",
+    "tier": 2,
+    "category": "comparative",
+    "expected_source": "pubmed"
+  },
+  {
+    "id": "T2_014",
+    "question": "How do infection rates differ between for-profit and non-profit hospitals?",
+    "tier": 2,
+    "category": "analytical",
+    "expected_source": "cms"
+  },
+  {
+    "id": "T2_015",
+    "question": "What interventions reduce Alzheimer's disease progression?",
+    "tier": 2,
+    "category": "comparative",
+    "expected_source": "pubmed"
+  },
+  {
+    "id": "T2_016",
+    "question": "Which states have the highest CAUTI infection rates?",
+    "tier": 2,
+    "category": "analytical",
+    "expected_source": "cms"
+  },
+  {
+    "id": "T3_001",
+    "question": "Which states have both high MRSA infection rates and low average hospital quality ratings?",
+    "tier": 3,
+    "category": "multi_hop",
+    "expected_source": "both"
+  },
+  {
+    "id": "T3_002",
+    "question": "How do clinical outcomes for sepsis patients relate to the hospital quality ratings in high-sepsis states?",
+    "tier": 3,
+    "category": "multi_hop",
+    "expected_source": "both"
+  },
+  {
+    "id": "T3_003",
+    "question": "What is the relationship between hospital ownership type and HAI infection rates across different US regions?",
+    "tier": 3,
+    "category": "multi_hop",
+    "expected_source": "both"
+  },
+  {
+    "id": "T3_004",
+    "question": "For hospitals with the lowest quality ratings, what are the most common HAI infections and what treatments exist for those infections?",
+    "tier": 3,
+    "category": "multi_hop",
+    "expected_source": "both"
+  },
+  {
+    "id": "T3_005",
+    "question": "How do diabetes management outcomes differ across states with varying hospital quality scores?",
+    "tier": 3,
+    "category": "multi_hop",
+    "expected_source": "both"
+  },
+  {
+    "id": "T3_006",
+    "question": "Which cardiovascular disease treatments show the best outcomes and how do hospitals specializing in cardiology rank in quality?",
+    "tier": 3,
+    "category": "multi_hop",
+    "expected_source": "both"
+  },
+  {
+    "id": "T3_007",
+    "question": "What is the relationship between ICU mortality in sepsis and CLABSI infection rates in the same hospitals?",
+    "tier": 3,
+    "category": "multi_hop",
+    "expected_source": "both"
+  },
+  {
+    "id": "T3_008",
+    "question": "For states with high Alzheimer's prevalence, what are the hospital quality metrics and available memory care resources?",
+    "tier": 3,
+    "category": "multi_hop",
+    "expected_source": "both"
+  },
+  {
+    "id": "T3_009",
+    "question": "How does the evidence on antibiotic resistance relate to MRSA infection rates in Southern US states?",
+    "tier": 3,
+    "category": "multi_hop",
+    "expected_source": "both"
+  },
+  {
+    "id": "T3_010",
+    "question": "Which hospital types have the lowest CDI infection rates and what does the clinical literature say about CDI prevention?",
+    "tier": 3,
+    "category": "multi_hop",
+    "expected_source": "both"
+  },
+  {
+    "id": "T3_011",
+    "question": "How do cardiovascular outcomes in diabetic patients relate to the quality of hospitals in states with high diabetes prevalence?",
+    "tier": 3,
+    "category": "multi_hop",
+    "expected_source": "both"
+  },
+  {
+    "id": "T3_012",
+    "question": "What are the clinical risk factors for hospital acquired infections and which US regions show the highest HAI burden?",
+    "tier": 3,
+    "category": "multi_hop",
+    "expected_source": "both"
+  },
+  {
+    "id": "T3_013",
+    "question": "For patients with sepsis requiring ICU care, how do treatment protocols differ and which hospital quality metrics best predict survival?",
+    "tier": 3,
+    "category": "multi_hop",
+    "expected_source": "both"
+  },
+  {
+    "id": "T3_014",
+    "question": "What is the relationship between early Alzheimer's intervention success rates and the availability of specialized hospitals in different states?",
+    "tier": 3,
+    "category": "multi_hop",
+    "expected_source": "both"
+  }
+]

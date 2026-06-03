@@ -1,0 +1,40 @@
+# HealthRAG Benchmark — Requirements
+# Install: pip install -r requirements.txt
+
+# ── LangChain core ────────────────────────────────────────────────────────────
+langchain>=0.3,<1.0
+langchain-core>=0.3,<1.0
+langchain-community>=0.3,<1.0
+langchain-groq>=0.1.0
+
+# ── Vector store & retrieval ──────────────────────────────────────────────────
+faiss-cpu>=1.7.4
+rank_bm25>=0.2.2
+sentence-transformers>=2.7.0         # all-MiniLM-L6-v2 embeddings + BGE reranker
+
+# ── Graph store ───────────────────────────────────────────────────────────────
+networkx>=3.0                         # NetworkxEntityGraph backend
+
+# ── LLM ───────────────────────────────────────────────────────────────────────
+groq>=0.9.0
+
+# ── Snowflake ─────────────────────────────────────────────────────────────────
+snowflake-connector-python>=3.0.0
+snowflake-sqlalchemy>=1.5.0
+
+# ── Evaluation ────────────────────────────────────────────────────────────────
+ragas>=0.1.0
+datasets>=2.0.0                       # RAGAS dependency
+
+# ── Data processing ───────────────────────────────────────────────────────────
+pandas>=2.0.0
+numpy>=1.24.0
+requests>=2.31.0
+
+# ── Visualization ─────────────────────────────────────────────────────────────
+plotly>=5.0.0
+
+# ── App & deployment ──────────────────────────────────────────────────────────
+streamlit>=1.35.0
+python-dotenv>=1.0.0
+plotly>=5.0.0

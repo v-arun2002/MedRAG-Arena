@@ -270,3 +270,252 @@ However, I can provide general information on sepsis treatment. According to gen
 Since all the hospitals in the retrieved context provide emergency services, we can conclude that 100% of the hospitals in this context provide emergency services.
 
 However, it's essential to note that this result is based on a limited sample of hospitals in Alabama and might not be representative of all hospitals. To determine the overall percentage of hospitals tha",1.51,575,0.000396,5,0.0,0.8,0.6,1.0,0.6
+2026-06-03T19:39:17.683489,graph,T2_009,2,comparative,How do SGLT2 inhibitors compare to GLP-1 agonists for diabetes treatment?,"According to the provided context, SGLT2 inhibitors and GLP-1 agonists are both newer classes of antidiabetic medications that have demonstrated significant positive effects on glycemia, with added benefits in patients with obesity, renal disease, heart failure, and cardiovascular disease (Source 1: PubMed PMID:37317976). 
+
+Both SGLT2 inhibitors and GLP-1 agonists have been shown to have positive cardiovascular effects in patients with type 2 diabetes mellitus (T2DM) (Source 2: PubMed PMID:34333",3.94,1883,0.001299,5,0.0,0.8,0.0,0.0,0.2
+2026-06-03T19:39:23.104860,graph,T2_011,2,comparative,How does cardiovascular disease risk change with age?,"According to the provided entity relationships from the knowledge graph, cardiovascular disease risk is related to age, among other factors such as diabetes, hypertension, and cholesterol. However, the retrieved context does not directly address how cardiovascular disease risk changes with age.
+
+Although the context primarily focuses on diabetes, it mentions that Type 2 diabetes mellitus (T2DM) is a chronic metabolic disease that poses a great threat to individual health, and its prevalence is i",3.01,2378,0.001641,5,0.0,0.2,0.0,0.0,0.05
+2026-06-03T19:39:26.385440,graph,T2_012,2,analytical,Which states have the most hospitals with a 5-star rating?,"Based on the provided context, I couldn't find any information about hospitals with a 5-star rating. The context only mentions hospitals with ratings of 1, 3, or 4 out of 5 stars, as reported by the Centers for Medicare and Medicaid Services (CMS) [Source 1-5]. 
+
+Since none of the sources mention a hospital with a 5-star rating, I couldn't determine which states have the most hospitals with a 5-star rating. If you have any additional context or information, I'd be happy to try and assist you fur",1.4,589,0.000406,5,0.0,0.0,0.0,0.0,0.0
+2026-06-03T19:39:30.786715,graph,T2_013,2,comparative,"What are the differences between sepsis, severe sepsis, and septic shock?","According to the provided context and entity relationships, the differences between sepsis, severe sepsis, and septic shock can be summarized as follows:
+
+Sepsis is a condition that affects a significant portion of ICU admissions, with an estimated 40% of ICU patients developing sepsis (Source 2: PubMed PMID:17464116). Severe sepsis, on the other hand, occurs in about 30% of ICU patients, and septic shock occurs in approximately 15% (Source 2: PubMed PMID:17464116).
+
+The Sepsis-2 and Sepsis-3 de",2.05,2328,0.001606,5,0.0,0.6,0.6,0.0,0.3
+2026-06-03T19:39:40.101087,graph,T2_014,2,analytical,How do infection rates differ between for-profit and non-profit hospitals?,"Based on the provided context, I couldn't find any direct information about infection rates in for-profit and non-profit hospitals. However, I can provide some insights about the quality ratings of non-profit hospitals.
+
+According to the retrieved context from Sources 1-5 [CMS:  | AL], all the mentioned hospitals are non-profit, with varying CMS quality ratings ranging from 2 to 4 out of 5. Unfortunately, there is no information about for-profit hospitals or their infection rates in the provided",2.89,683,0.000471,5,0.0,0.2,0.0,0.0,0.05
+2026-06-03T19:39:55.155666,graph,T2_015,2,comparative,What interventions reduce Alzheimer's disease progression?,"The provided sources do not directly address interventions that reduce Alzheimer's disease progression. The sources primarily focus on cancer treatments, including immunotherapy, chemotherapy, and precision medicine. 
+
+However, based on the entity relationships from the knowledge graph, potential interventions for reducing Alzheimer's disease progression may include:
+
+1. Medications: Although not specified in the provided sources, the knowledge graph mentions medications as a related entity.
+2. ",8.83,1745,0.001203,5,0.0,0.2,0.0,0.0,0.05
+2026-06-03T19:40:16.546436,graph,T2_016,2,analytical,Which states have the highest CAUTI infection rates?,"The provided sources do not specifically mention the states with the highest CAUTI (Catheter-Associated Urinary Tract Infection) infection rates. However, Source 1 [PubMed PMID:17975201] mentions a retrospective population-based cohort study using hospital discharge and U.S. Census data for all persons living in 68 hospital referral regions in six states. The study explores racial differences in the incidence and associated case fatality of severe sepsis, but it does not provide information on C",13.95,2697,0.00186,5,0.0,0.0,0.0,0.0,0.0
+2026-06-03T19:43:14.752700,graph,T3_001,3,multi_hop,Which states have both high MRSA infection rates and low average hospital quality ratings?,"Based on the provided context and entity relationships, I was unable to find a direct correlation between MRSA infection rates and hospital quality ratings by state. The sources provided (Source 1-5) [CMS] only mention hospital quality ratings and do not provide information on MRSA infection rates. 
+
+However, according to the Centers for Medicare and Medicaid Services (CMS), hospital quality ratings can be influenced by various factors, including infection rates [1]. To answer the question, I wo",2.86,710,0.00049,5,0.0,0.0,0.0,0.0,0.0
+2026-06-03T19:43:19.547064,graph,T3_002,3,multi_hop,How do clinical outcomes for sepsis patients relate to the hospital quality ratings in high-sepsis states?,"To answer this question, we need to analyze the relationship between hospital quality ratings and clinical outcomes for sepsis patients, particularly in high-sepsis states. 
+
+According to the Centers for Medicare and Medicaid Services (CMS), hospital quality ratings are based on various clinical performance measures, including those related to sepsis care (Source 1-5: [CMS]). However, the provided sources do not explicitly mention sepsis-related clinical outcomes.
+
+Research has shown that higher",2.77,856,0.000591,5,0.0,0.6,0.6,0.0,0.3
+2026-06-03T19:43:23.541756,graph,T3_003,3,multi_hop,What is the relationship between hospital ownership type and HAI infection rates across different US regions?,"Based on the provided context and entity relationships from the medical knowledge graph, there is no direct information available to establish a clear relationship between hospital ownership type and HAI (Hospital-Acquired Infection) infection rates across different US regions. 
+
+The retrieved context from Sources 1-5 [CMS:  | AL] provides information about individual hospitals in Alabama, including their ownership type, CMS quality rating, and clinical performance measures. However, it does not",2.18,745,0.000513,5,0.0,0.2,0.4,0.0,0.15
+2026-06-03T19:43:27.841352,graph,T3_004,3,multi_hop,"For hospitals with the lowest quality ratings, what are the most common HAI infections and what treatments exist for those infections?","Based on the provided context, the hospitals with the lowest quality ratings are those with a CMS quality rating of 3 out of 5, as seen in Source 1, Source 4, and Source 5 [CMS:  | AL]. 
+
+According to the entity relationships from the knowledge graph, HAI (Hospital-Acquired Infections) are related to infections, treatments, and hospitals. However, the provided context does not explicitly mention the most common HAI infections and their treatments for hospitals with the lowest quality ratings.
+
+T",2.27,867,0.000598,5,0.0,0.0,0.0,0.0,0.0
+2026-06-03T19:43:33.387821,graph,T3_005,3,multi_hop,How do diabetes management outcomes differ across states with varying hospital quality scores?,"According to the provided sources, diabetes management outcomes can be influenced by various factors, including hospital quality scores. However, the sources do not provide a direct comparison of diabetes management outcomes across states with varying hospital quality scores.
+
+Source 1 [PubMed PMID:15223221] focuses on the relationship between insulin resistance and endothelial function in type 2 diabetes patients, while Source 2 [PubMed PMID:38962677] discusses the clinical management of Youth-",2.99,1904,0.001314,5,0.0,0.2,0.2,0.0,0.1
+2026-06-03T19:43:38.288192,graph,T3_006,3,multi_hop,Which cardiovascular disease treatments show the best outcomes and how do hospitals specializing in cardiology rank in quality?,"According to Source 1 [PubMed PMID:34333002], recent reports from large CV outcome trials have proven the positive CV effects of sodium-glucose cotransporter-2 (SGLT-2) inhibitors and glucagon-like peptide-1 receptor agonists (GLP-1RAs) in patients with high CVD risk. These treatments show the best outcomes in terms of reducing cardiovascular risk in patients with type 2 diabetes mellitus (T2DM) [1].
+
+Regarding hospital quality, Sources 2-5 [CMS] provide information on the quality ratings of var",2.26,1016,0.000701,5,0.0,0.8,0.4,0.5,0.425
+2026-06-03T19:43:43.609877,graph,T3_007,3,multi_hop,What is the relationship between ICU mortality in sepsis and CLABSI infection rates in the same hospitals?,"Based on the provided context and entity relationships from the medical knowledge graph, I was unable to find a direct relationship between ICU mortality in sepsis and CLABSI infection rates in the same hospitals. The retrieved context from Sources 1-5 [CMS:  | AL] provides information on hospital characteristics, ownership, and overall CMS quality ratings, but does not specifically address the relationship between ICU mortality in sepsis and CLABSI infection rates.
+
+However, according to the Ce",3.1,816,0.000563,5,0.0,0.2,0.0,0.0,0.05
+2026-06-03T19:43:55.901155,graph,T3_008,3,multi_hop,"For states with high Alzheimer's prevalence, what are the hospital quality metrics and available memory care resources?","Based on the provided context and entity relationships, I found that the state of Alabama (AL) has several hospitals with varying quality metrics. According to the Centers for Medicare and Medicaid Services (CMS) data (Sources 1-5), the hospital quality metrics in Alabama are as follows:
+
+* Unknown Hospital (Source 1) has a CMS quality rating of 4 out of 5 and is Proprietary-owned [1].
+* Unknown Hospital (Source 2) has a CMS quality rating of 4 out of 5 and is Voluntary non-profit - Other-owned ",2.08,828,0.000571,5,0.0,0.4,0.6,0.0,0.25
+2026-06-03T19:44:10.485314,graph,T3_009,3,multi_hop,How does the evidence on antibiotic resistance relate to MRSA infection rates in Southern US states?,"The provided sources do not specifically address the relationship between antibiotic resistance and MRSA infection rates in Southern US states. However, we can make some inferences based on the available information.
+
+Source 1 [PubMed PMID:24887215] discusses the use of weighted incidence syndromic combination antibiograms (WISCAs) to improve time to adequate coverage for critical care infections, including those caused by antibiotic-resistant pathogens. While it does not specifically mention MR",4.22,2471,0.001704,5,0.0,0.2,0.0,0.0,0.05
+2026-06-03T19:44:24.882713,graph,T3_010,3,multi_hop,Which hospital types have the lowest CDI infection rates and what does the clinical literature say about CDI prevention?,"Based on the provided context and entity relationships, I was unable to find specific information on CDI (Clostridioides difficile) infection rates for different hospital types. However, I can provide some general information on CDI prevention.
+
+According to the clinical literature, CDI prevention strategies include antimicrobial stewardship, infection control practices, and environmental cleaning and disinfection (Source: CDC, ""Clostridioides difficile Infection""). 
+
+As for hospital types with ",3.97,689,0.000475,5,0.0,0.4,0.0,0.0,0.1
+2026-06-03T19:44:38.703222,graph,T3_011,3,multi_hop,How do cardiovascular outcomes in diabetic patients relate to the quality of hospitals in states with high diabetes prevalence?,"According to the provided context, there is a significant relationship between cardiovascular outcomes in diabetic patients and the quality of hospitals. Source 1 [PubMed PMID:34333002] highlights the importance of proper care strategies, including lifestyle and therapeutic approaches, in managing cardiovascular disease (CVD) in patients with type 2 diabetes mellitus (T2DM). The source also mentions that current practice guidelines are moving towards a more individualized patient-centered approa",3.19,1014,0.0007,5,0.0,0.6,0.4,0.4,0.35
+2026-06-03T19:44:50.889642,graph,T3_012,3,multi_hop,What are the clinical risk factors for hospital acquired infections and which US regions show the highest HAI burden?,"Based on the provided context and entity relationships, I was unable to find specific clinical risk factors for hospital acquired infections (HAIs) in the retrieved sources. However, according to the Centers for Disease Control and Prevention (CDC), clinical risk factors for HAIs include invasive medical devices, surgical procedures, and compromised immune systems [1]. 
+
+Regarding the US regions with the highest HAI burden, the retrieved context does not provide specific information on regional ",3.81,728,0.000502,5,0.0,0.6,0.0,0.0,0.15
+2026-06-03T19:45:03.484358,graph,T3_013,3,multi_hop,"For patients with sepsis requiring ICU care, how do treatment protocols differ and which hospital quality metrics best predict survival?","For patients with sepsis requiring ICU care, treatment protocols can differ significantly depending on the hospital's quality metrics and ownership type. According to the retrieved context from various CMS sources [Source 1, Source 2, Source 3, Source 4, Source 5], hospitals with higher overall CMS quality ratings tend to have better clinical performance measures.
+
+The treatment protocols for sepsis in ICU care typically involve early recognition, fluid resuscitation, broad-spectrum antibiotics,",2.46,964,0.000665,5,0.0,0.8,0.2,0.0,0.25
+2026-06-03T19:45:15.666772,graph,T3_014,3,multi_hop,What is the relationship between early Alzheimer's intervention success rates and the availability of specialized hospitals in different states?,"Based on the provided context and entity relationships, there is no direct information available regarding the relationship between early Alzheimer's intervention success rates and the availability of specialized hospitals in different states. The retrieved context primarily focuses on the characteristics of hospitals in Alabama, including their ownership, emergency services, and CMS quality ratings (Source 1-5: [CMS:  | AL]).
+
+However, it can be inferred that the availability of specialized hos",1.87,672,0.000464,5,0.0,0.2,0.0,0.0,0.05
+2026-06-03T19:48:56.862261,agentic,T1_001,1,factual,What is sepsis?,"Sepsis is a multi-system inflammatory response to infection that affects multiple organ systems, with the cardiovascular system being one of the most profoundly affected (Source 1: PubMed PMID:40423380). It is a life-threatening condition that occurs when the body's response to an infection becomes uncontrolled and causes widespread inflammation (Source 2: PubMed PMID:17464116). Sepsis can lead to organ dysfunction and failure, and if left untreated, can progress to septic shock, which is a seve",12.84,1873,0.001292,5,0.0,1.0,0.8,1.0,0.7
+2026-06-03T19:53:28.749923,agentic,T1_002,1,factual,What are the symptoms of type 2 diabetes?,"The symptoms of type 2 diabetes are not explicitly listed in the provided sources. However, based on the context, it can be inferred that the symptoms of type 2 diabetes may include:
+
+* Persistently elevated blood glucose levels (Source 1 and 2)
+* Insulin resistance and reduced insulin production (Source 1 and 4)
+* Microvascular complications such as retinopathy, nephropathy, and neuropathy (Source 1, 2, and 4)
+* Cardiovascular disease, including coronary heart disease, peripheral vascular disea",269.28,2012,0.001388,5,0.0,0.8,0.4,0.4,0.4
+2026-06-03T20:02:52.764564,agentic,T1_003,1,factual,What is MRSA?,"Methicillin-resistant Staphylococcus aureus (MRSA) is a type of bacteria that is resistant to many antibiotics, including methicillin. It is a significant concern in healthcare settings, as it can cause a range of infections, from mild to severe, including skin infections, pneumonia, and bloodstream infections (CDC, 2022).
+
+According to the Centers for Disease Control and Prevention (CDC), MRSA is a leading cause of hospital-acquired infections, and it is estimated that approximately 94,000 seve",16.76,871,0.0006,5,0.0,1.0,0.5,0.0,0.375
+2026-06-05T06:22:25.345288,agentic,T1_004,1,factual,What causes Alzheimer's disease?,"Alzheimer's disease is a complex and multifactorial condition, and its exact cause is still not fully understood. However, based on the provided sources, it can be concluded that Alzheimer's disease is likely the result of a combination of genetic, environmental, and lifestyle factors.
+
+According to Source 1 [PubMed PMID:39485649], Alzheimer's disease is the leading cause of dementia, accounting for between 60% and 80% of total dementia cases. The cognitive effects of Alzheimer's disease differ ",20.89,2201,0.001518,5,0.0,0.8,0.4,0.0,0.3
+2026-06-05T06:22:54.618776,agentic,T1_005,1,factual,What is cardiovascular disease?,"Cardiovascular disease (CVD) refers to a group of conditions that affect the heart and blood vessels, including hypertension, hyperlipidemia, coronary artery disease, heart failure, and arrhythmias (Source 1: PubMed PMID:28802470). It is a leading cause of death worldwide, accounting for significant morbidity and mortality, particularly in the older population (Source 3: PubMed PMID:30702991, Source 4: PubMed PMID:12424868). In the United States, approximately 6.2 million people are affected by ",27.32,1421,0.00098,5,0.0,1.0,0.8,0.4,0.55
+2026-06-05T06:23:14.846868,agentic,T1_006,1,factual,What are the risk factors for sepsis?,"The risk factors for sepsis are multifaceted and can be categorized into several areas, including demographic, clinical, and healthcare-related factors. According to the provided sources, the following are some of the identified risk factors for sepsis:
+
+1. **Demographic factors**: 
+   - Age: Although not explicitly stated in the provided sources, age is a well-known risk factor for sepsis, with older adults being more susceptible (Source 1 implies age-standardization in its analysis).
+   - Race",18.52,3319,0.002289,5,0.0,0.8,0.8,0.4,0.5
+2026-06-05T06:23:41.395203,agentic,T1_007,1,factual,What medications are used to treat type 2 diabetes?,"According to the provided sources, several medications are used to treat type 2 diabetes. These include:
+
+1. **SGLT2 inhibitors**: These agents have been shown to reduce major adverse cardiovascular events in individuals with type 2 diabetes (Source 1: PubMed PMID:30706731).
+2. **GLP-1 receptor agonists**: Similar to SGLT2 inhibitors, GLP-1 receptor agonists have been demonstrated to reduce major adverse cardiovascular events in type 2 diabetes patients (Source 1: PubMed PMID:30706731, Source 2:",24.9,1724,0.00119,5,0.0,1.0,0.0,0.4,0.35
+2026-06-05T06:24:00.738053,agentic,T1_008,1,factual,What is the mortality rate for septic shock?,"According to the provided sources, the mortality rate for septic shock varies. 
+
+Source 1 [PubMed PMID:17975201] reports that the ICU case fatality rate for septic shock is 32.1% for blacks, 30.4% for Hispanics, and 29.3% for whites (P < 0.0001) (1).
+
+Source 2 [PubMed PMID:29121281] states that the mortality rate for Sepsis-3 septic shock is higher than for Sepsis-2 septic shock, but the exact mortality rate is not provided. However, it mentions that Sepsis-3 septic shock has a much higher Acute",17.57,2721,0.001877,5,0.0,0.8,0.6,0.8,0.55
+2026-06-05T06:25:02.233592,agentic,T1_009,1,factual,What is CLABSI?,"CLABSI stands for Central Line-Associated Bloodstream Infection. However, the provided context does not directly mention CLABSI. 
+
+To answer the question based on the given context, it is essential to understand that the context primarily discusses sepsis, cancer, and cardiovascular diseases, without explicitly mentioning CLABSI. 
+
+According to general medical knowledge, CLABSI is a type of infection that occurs when a central line (a catheter placed into a large vein in the neck, chest, or arm)",59.5,1299,0.000896,5,0.0,0.8,0.0,0.0,0.2
+2026-06-05T06:25:19.013274,agentic,T1_010,1,factual,What is a hospital acquired infection?,"A hospital-acquired infection (HAI) is an infection that a patient develops during their stay in a hospital, which was not present or incubating at the time of admission (Source: Centers for Disease Control and Prevention, CDC). According to the Centers for Medicare and Medicaid Services (CMS), hospital-acquired infections can include a range of conditions, such as pneumonia, urinary tract infections, and intra-abdominal infections (IAIs) (Source 1: PubMed PMID:35172355).
+
+Intra-abdominal infect",14.86,1009,0.000696,5,0.0,1.0,0.2,0.0,0.3
+2026-06-05T06:25:42.013370,agentic,T1_011,1,factual,What are the stages of Alzheimer's disease?,"The stages of Alzheimer's disease are not explicitly outlined in the provided sources, but based on the context and information presented, we can infer the following stages:
+
+1. **Subjective Cognitive Decline (SCD)**: This is considered the first clinical manifestation of Alzheimer's disease, where individuals experience cognitive decline but do not meet the criteria for mild cognitive impairment (MCI) or dementia (Source 1: PubMed PMID:32962744).
+2. **Mild Cognitive Impairment (MCI)**: This sta",21.34,2439,0.001682,5,0.0,0.8,0.8,0.4,0.5
+2026-06-05T06:26:14.811651,agentic,T1_012,1,factual,What is insulin resistance?,"Insulin resistance is a condition wherein cells fail to adequately respond to insulin, leading to a range of metabolic disturbances, including hyperglycemia, hyperinsulinemia, dyslipidemia, hyperuricemia, endothelial dysfunction, elevated inflammatory markers, and a prothrombotic state (Source 1: PubMed PMID:40565151). It is a prevalent medical condition associated with several diseases, such as type 2 diabetes mellitus, metabolic syndrome, hypertension, obesity, and polycystic ovary syndrome (S",30.76,2020,0.001394,5,0.0,1.0,0.8,0.8,0.65
+2026-06-05T06:26:39.209144,agentic,T1_013,1,factual,What is the role of antibiotics in sepsis treatment?,"The role of antibiotics in sepsis treatment is crucial, as they are a key component of the therapeutic strategy for managing sepsis. According to Source 1 (PubMed PMID:23353941), the administration of broad-spectrum antimicrobials within 1 hour of recognition of septic shock (1B) and severe sepsis without septic shock (1C) is recommended as the goal of therapy. Additionally, reassessment of antimicrobial therapy daily for de-escalation, when appropriate (1B), is also recommended.
+
+Source 2 (PubM",22.57,2915,0.002011,5,0.8,1.0,0.2,0.4,0.6
+2026-06-05T06:27:07.105968,agentic,T1_014,1,factual,What is heart failure?,"According to the provided sources, heart failure (HF) is a major public health problem characterized by the inability of the heart to pump enough blood to meet the body's needs (Source 1: PubMed PMID:30368802). It is a complex condition that can result from various cardiovascular diseases, including energy metabolism disorders of cardiomyocytes (Source 2: PubMed PMID:34922111). HF can lead to frequent rehospitalizations, negatively impacting the quality of life of patients and constituting a sub",26.07,1779,0.001227,5,0.0,1.0,0.8,0.8,0.65
+2026-06-05T06:27:42.039627,agentic,T1_015,1,factual,What is the SIR score in hospital infection reporting?,"The SIR score in hospital infection reporting refers to the Standardized Infection Ratio. According to the Centers for Disease Control and Prevention (CDC), the Standardized Infection Ratio (SIR) is a summary measure that compares the number of observed infections to the number of predicted infections, taking into account various factors such as the type of hospital, patient population, and other risk factors (CDC, 2022).
+
+The SIR score is calculated by dividing the number of observed infections",33.48,1295,0.000893,0,1.0,1.0,0.0,0.0,0.5
+2026-06-05T06:28:03.407477,agentic,T1_016,1,factual,What are common treatments for cardiovascular disease?,"Common treatments for cardiovascular disease (CVD) include traditional medications and lifestyle modifications, as well as complementary and alternative therapies. According to Source 1 (PubMed PMID:28802470), traditional treatments for CVD, such as hypertension, hyperlipidemia, coronary artery disease, heart failure, and arrhythmias, often have poor adherence rates, highlighting the need for alternative options (1).
+
+Complementary therapies, including herbal and botanic preparations, supplement",19.33,1526,0.001053,5,0.0,0.8,0.8,0.8,0.6
+2026-06-05T06:28:20.421211,agentic,T1_017,1,factual,What is cognitive decline in the context of dementia?,"Cognitive decline in the context of dementia refers to the progressive deterioration of cognitive functions, such as memory, language, executive function, and visuospatial skills, which ultimately impairs an individual's ability to perform daily tasks and maintain independence (Source 3: PubMed PMID:39485649). This decline is a hallmark of Alzheimer's disease, the leading cause of dementia, accounting for 60-80% of total dementia cases (Source 3: PubMed PMID:39485649).
+
+According to Source 1 (Pu",15.38,2430,0.001677,5,0.0,1.0,0.9,0.8,0.675
+2026-06-05T06:28:52.840011,agentic,T1_018,1,factual,How is sepsis diagnosed?,"Sepsis is diagnosed through a combination of clinical judgment, laboratory tests, and biomarkers. According to Source 1 (PubMed PMID: 40423380), nurses play a crucial role in assessing clinical manifestations of sepsis, including blood pressure, heart rate, capillary refill, and mentation. Invasive monitoring, such as arterial lines, and laboratory markers of perfusion also contribute to characterizing the clinical picture of sepsis (Source 1).
+
+Source 2 (PubMed PMID: 17464116) discusses the cla",30.67,1811,0.001249,5,0.0,0.8,0.2,0.4,0.35
+2026-06-05T06:38:16.052356,agentic,T2_001,2,comparative,What is the relationship between diabetes and cardiovascular risk?,"The relationship between diabetes and cardiovascular risk is complex and multifaceted. According to the provided sources, diabetes, particularly type 2 diabetes, is considered a cardiovascular risk equivalent, and cardiovascular death remains the most common cause of death in this population (Source 1: PubMed PMID:18778582). The cardiovascular complications of diabetes are strongly linked to the development of insulin resistance and the ensuing metabolic disarray, often referred to as the metabo",12.62,2400,0.001656,5,0.0,1.0,0.9,0.8,0.675
+2026-06-05T06:38:30.851453,agentic,T2_002,2,analytical,Which states have the highest average MRSA infection rates?,"Based on the provided structured hospital data from Snowflake, the top 5 states with the highest average MRSA (Methicillin-resistant Staphylococcus aureus) infection rates are:
+
+1. Louisiana (LA) with an average MRSA rate of 1.2167 (Source: Snowflake data)
+2. Arkansas (AR) with an average MRSA rate of 1.0542 (Source: Snowflake data)
+3. Mississippi (MS) with an average MRSA rate of 0.9463 (Source: Snowflake data)
+4. North Carolina (NC) with an average MRSA rate of 0.9073 (Source: Snowflake data)
+",13.31,765,0.000527,0,0.0,1.0,0.0,0.0,0.25
+2026-06-05T06:38:52.595375,agentic,T2_003,2,comparative,How does sepsis progression differ between ICU and non-ICU patients?,"According to the provided sources, sepsis progression can differ significantly between ICU and non-ICU patients. 
+
+Source 1 [PubMed PMID:17464116] states that sepsis affects approximately 40% of ICU admissions, with severe sepsis occurring in about 30% and septic shock in 15% (PubMed PMID:17464116). This suggests that ICU patients are at a higher risk of developing severe sepsis and septic shock.
+
+Source 2 [PubMed PMID:29121281] reports that the incidence of Sepsis-3 sepsis and Sepsis-3 septic s",19.97,2570,0.001773,5,0.0,0.8,0.6,0.4,0.45
+2026-06-05T06:39:06.458923,agentic,T2_004,2,analytical,Which states have the lowest average hospital quality ratings?,"Based on the provided structured hospital data from Snowflake, the states with the lowest average hospital quality ratings are:
+
+1. Alabama (AL) with an average rating of 2.711864
+2. Kentucky (KY) with an average rating of 2.761194
+3. Arkansas (AR) with an average rating of 2.840909
+4. District of Columbia (DC) with an average rating of 2.857143
+5. Alaska (AK) with an average rating of 2.900000
+
+These five states have the lowest average hospital quality ratings, with Alabama having the lowest ra",12.43,539,0.000371,0,0.0,1.0,0.0,0.0,0.25
+2026-06-05T06:39:20.368165,agentic,T2_005,2,comparative,What is the difference between CAUTI and CLABSI infections?,"To answer the question, we need to understand the definitions of CAUTI and CLABSI infections.
+
+CAUTI stands for Catheter-Associated Urinary Tract Infection. According to the Centers for Disease Control and Prevention (CDC), CAUTI is defined as a urinary tract infection that occurs in a patient who has had a urinary catheter in place for more than 2 days (Source: CDC). In the context of the provided sources, Source 1 [PubMed PMID:35773965] mentions that the proportion of CAUTI was 3.65‰.
+
+CLABSI ",12.24,2409,0.001662,5,0.0,0.6,0.0,0.0,0.15
+2026-06-05T06:39:34.506575,agentic,T2_006,2,comparative,How does Alzheimer's disease differ from other forms of dementia?,"Alzheimer's disease differs from other forms of dementia in several ways. According to Source 3 (PubMed PMID:39485649), Alzheimer's disease is the leading cause of dementia, accounting for between 60% and 80% of total dementia cases. It is characterized by declines in episodic memory, which are considered a hallmark of the disease and occur early in disease progression (Source 3). Additionally, the cognitive effects of Alzheimer's disease differ from the cognitive changes expected in nonpatholog",12.45,2423,0.001671,5,0.0,0.8,0.4,0.4,0.4
+2026-06-05T06:39:46.423638,agentic,T2_007,2,analytical,Which hospital types have the highest overall quality ratings?,"Based on the provided structured hospital data from Snowflake, the hospital type with the highest overall quality rating is Acute Care - Veterans Administration, with an average overall rating of 4.048780.
+
+According to the data, the top two hospital types with the highest overall quality ratings are:
+1. Acute Care - Veterans Administration: 4.048780
+2. Critical Access Hospitals: 3.158621
+3. Acute Care Hospitals: 3.063931
+
+The other hospital types (Childrens, Psychiatric, Rural Emergency Hospita",10.47,386,0.000266,0,1.0,1.0,0.0,0.0,0.5
+2026-06-05T06:40:01.704067,agentic,T2_008,2,comparative,What are the outcomes of early versus late antibiotic treatment in sepsis?,"The outcomes of early versus late antibiotic treatment in sepsis are significant, with early treatment associated with improved outcomes and reduced mortality. According to Source 3 [PubMed PMID:29891035], a 22% increase in mortality risk was found for each hour delay from triage to antibiotic(s) ordered, and a 15% increase in mortality risk was observed for each hour from triage to antibiotic(s) given. This study suggests that timely antibiotic administration is crucial in reducing mortality an",13.54,3136,0.002164,5,0.0,1.0,0.8,0.4,0.55
+2026-06-05T06:40:15.209192,agentic,T2_009,2,comparative,How do SGLT2 inhibitors compare to GLP-1 agonists for diabetes treatment?,"Based on the provided context, SGLT2 inhibitors and GLP-1 receptor agonists are both advanced therapies used to treat type 2 diabetes mellitus (T2DM). While the provided sources do not directly compare SGLT2 inhibitors to GLP-1 agonists, they do highlight the benefits of SGLT2 inhibitors in reducing the risk of cardiovascular events and improving glycemic control.
+
+According to Source 1 (PubMed PMID: 39940862), SGLT2 inhibitors and GLP-1 receptor agonists are both mentioned as advanced therapies",11.68,2892,0.001995,5,0.0,0.4,0.6,0.0,0.25
+2026-06-05T06:40:24.673268,agentic,T2_010,2,analytical,What percentage of hospitals provide emergency services?,"According to the structured hospital data from Snowflake, the percentage of hospitals that provide emergency services is 82.55%. 
+
+Source: Snowflake structured hospital data, field: PERCENTAGE_WITH_EMERGENCY_SERVICES.
+
+FINAL ANSWER: 82.55%",8.14,163,0.000112,0,1.0,1.0,0.0,0.0,0.5
+2026-06-05T06:40:48.366484,agentic,T2_011,2,comparative,How does cardiovascular disease risk change with age?,"According to the provided sources, cardiovascular disease (CVD) risk changes with age, and this change is influenced by various factors, including sex, menopause, and the presence of other health conditions.
+
+Source 1 [PubMed PMID:38700013] states that the risk of cardiovascular events is 10 to 20 times higher in patients with kidney failure compared to the general population. The study found that women have a 14% higher risk of cardiovascular events than men, with a higher rate of heart failure",21.96,2701,0.001863,5,0.0,0.6,0.8,0.4,0.45
+2026-06-05T06:41:09.461569,agentic,T2_012,2,analytical,Which states have the most hospitals with a 5-star rating?,"To determine which states have the most hospitals with a 5-star rating, we would need data on hospital ratings. However, the provided data from Snowflake only includes the count of facility IDs by state.
+
+According to the Centers for Medicare and Medicaid Services (CMS), hospital ratings are available through the Hospital Compare dataset (CMS, 2022). As of 2022, the top 5 states with the most 5-star hospitals are:
+
+1. California - 104 hospitals (CMS, 2022)
+2. Florida - 64 hospitals (CMS, 2022)
+3",19.66,538,0.000371,0,0.0,0.8,0.0,0.0,0.2
+2026-06-05T06:41:24.171876,agentic,T2_013,2,comparative,"What are the differences between sepsis, severe sepsis, and septic shock?","The differences between sepsis, severe sepsis, and septic shock are primarily based on the severity of the condition and the presence of organ dysfunction. 
+
+According to Source 1 (PubMed PMID:29121281), sepsis is defined as a life-threatening organ dysfunction caused by a dysregulated host response to infection (Sepsis-3 definition). Severe sepsis, on the other hand, is defined as sepsis with associated organ dysfunction (Sepsis-2 definition). Septic shock is defined as sepsis with persistent h",12.91,2792,0.001926,5,0.0,0.8,0.6,0.4,0.45
+2026-06-05T06:41:36.345363,agentic,T2_014,2,analytical,How do infection rates differ between for-profit and non-profit hospitals?,"To answer this question, we need to compare the infection rates between for-profit and non-profit hospitals. Based on the provided data from Snowflake, we can categorize the hospitals into two groups: for-profit (Proprietary) and non-profit (Voluntary non-profit - Private, Voluntary non-profit - Church, Voluntary non-profit - Other, Government - Hospital District or Authority, Government - State, Government - Local, and Physician is not clearly for-profit or non-profit but will be excluded from ",10.85,1651,0.001138,0,0.0,0.2,0.0,0.0,0.05
+2026-06-05T06:41:50.554797,agentic,T2_015,2,comparative,What interventions reduce Alzheimer's disease progression?,"Based on the provided context from sources 1-5, several interventions have been identified that may reduce Alzheimer's disease progression. 
+
+1. **Metabolic Enhancement for Neurodegeneration (MEND) protocol**: This programmatic and personalized approach has shown unprecedented improvement in cognitive decline in patients with early Alzheimer's disease or its precursors, MCI and SCI (Source 1, PubMed PMID:27294343). The MEND protocol is a comprehensive approach that includes lifestyle modificatio",12.38,2321,0.001601,5,0.0,1.0,0.6,0.5,0.525
+2026-06-05T23:15:12.720957,agentic,T2_016,2,analytical,Which states have the highest CAUTI infection rates?,"Based on the provided structured hospital data from Snowflake, the top 5 states with the highest CAUTI (Catheter-Associated Urinary Tract Infections) infection rates are:
+
+1. Maine (ME) - 1.0542727272727273
+2. New Hampshire (NH) - 1.0053333333333334
+3. Hawaii (HI) - 0.980090909090909
+4. Alaska (AK) - 0.9229999999999999
+5. Massachusetts (MA) - 0.7645744680851064
+
+These states have the highest average CAUTI rates, with Maine having the highest rate at 1.0542727272727273. According to the Centers f",17.03,644,0.000444,0,0.0,1.0,0.0,0.0,0.25
+2026-06-05T23:16:51.088735,agentic,T3_001,3,multi_hop,Which states have both high MRSA infection rates and low average hospital quality ratings?,"Based on the provided SQL results, the states that have both high MRSA infection rates and low average hospital quality ratings are Alabama (AL) and Kentucky (KY).
+
+According to the data, Alabama has an average MRSA infection rate of 0.8744324324324324, which is the second-highest among the listed states, and an average hospital quality rating of 2.711864, which is the lowest among the listed states. Kentucky has an average MRSA infection rate of 0.8459166666666667, which is the third-highest am",26.37,2467,0.001702,5,0.0,1.0,0.0,0.0,0.25
+2026-06-05T23:17:48.624834,agentic,T3_002,3,multi_hop,How do clinical outcomes for sepsis patients relate to the hospital quality ratings in high-sepsis states?,"Based on the provided context, it's challenging to draw a direct conclusion about how clinical outcomes for sepsis patients relate to hospital quality ratings in high-sepsis states. The information given focuses more on the epidemiology of sepsis, the impact of insurance types, and the comparison of sepsis definitions rather than on hospital quality metrics and their impact on sepsis outcomes.
+
+However, we can infer some insights from the studies:
+
+1. **Racial disparities in sepsis incidence and",55.56,3201,0.002208,5,0.0,0.2,0.2,0.0,0.1
+2026-06-05T23:18:23.804787,agentic,T3_003,3,multi_hop,What is the relationship between hospital ownership type and HAI infection rates across different US regions?,"The relationship between hospital ownership type and HAI (Hospital-Acquired Infection) infection rates across different US regions is complex and varies significantly. No single hospital ownership type consistently outperforms others in terms of lower HAI rates across all states and types of infections. Regional factors, hospital-specific practices, and potentially other variables play significant roles in determining HAI rates.
+
+According to the provided data, **Voluntary non-profit - Private**",32.57,5017,0.003461,5,0.0,0.8,0.0,0.0,0.2
+2026-06-05T23:18:48.889386,agentic,T3_004,3,multi_hop,"For hospitals with the lowest quality ratings, what are the most common HAI infections and what treatments exist for those infections?","Based on the provided context and structured hospital data, the most common HAI infections in hospitals with the lowest quality ratings are likely to be intra-abdominal infections (IAIs), which include diagnoses such as peritonitis, cholangitis, diverticulitis, pancreatitis, abdominal abscess, intestinal perforation, abdominal trauma, and pelvic inflammatory disease (Source 1: PubMed PMID:35172355).
+
+Treatments for IAIs exist in the form of empiric antimicrobial therapy, which should be based on",22.85,3663,0.002527,5,0.0,0.8,0.6,0.4,0.45
+2026-06-05T23:19:26.671837,agentic,T3_005,3,multi_hop,How do diabetes management outcomes differ across states with varying hospital quality scores?,"To answer the question of how diabetes management outcomes differ across states with varying hospital quality scores, we must consider the provided context and available data. However, the SQL results do not directly provide diabetes management outcomes but offer insights into hospital quality and availability of services across different states.
+
+**Step-by-Step Analysis:**
+
+1. **Understanding the Context**: The context highlights the significance of Type 2 Diabetes Mellitus (T2DM) and its manag",31.67,3820,0.002636,5,0.0,0.2,0.0,0.0,0.05
+2026-06-05T23:19:56.678498,agentic,T3_006,3,multi_hop,Which cardiovascular disease treatments show the best outcomes and how do hospitals specializing in cardiology rank in quality?,"Based on the provided context, it is challenging to definitively state which cardiovascular disease treatments show the best outcomes without more specific data on treatment efficacy and patient outcomes. However, the context suggests that a multiparametric approach to heart failure treatment, combining biochemical, echocardiographic, demographic, and socioeconomical parameters, could lead to better outcomes by reducing rehospitalizations and improving quality of life (Source 2 [PubMed PMID:3036",21.63,2862,0.001975,5,0.0,0.6,0.8,0.2,0.4
+2026-06-05T23:20:32.010979,agentic,T3_007,3,multi_hop,What is the relationship between ICU mortality in sepsis and CLABSI infection rates in the same hospitals?,"Based on the provided context and analysis, the final answer to the question about the relationship between ICU mortality in sepsis and CLABSI infection rates in the same hospitals is:
+
+**There is no available data to determine the relationship between ICU mortality in sepsis and CLABSI infection rates in the same hospitals, as the provided SQL results list all hospitals with ""N/A"" for their CLABSI Standardized Infection Ratio (SIR).**
+
+Sources:
+1. PubMed PMID: 17464116
+2. PubMed PMID: 11445744
+",31.24,3215,0.002218,5,0.0,0.8,0.2,0.0,0.25
+2026-06-05T23:21:14.341360,agentic,T3_008,3,multi_hop,"For states with high Alzheimer's prevalence, what are the hospital quality metrics and available memory care resources?","For the state of Alabama, which is assumed to have high Alzheimer's prevalence, the hospital quality metrics are variable, with some hospitals having higher overall ratings. The available data shows that some notable hospitals with higher ratings include:
+
+* SOUTHEAST HEALTH MEDICAL CENTER (rating: 4)
+* HUNTSVILLE HOSPITAL (rating: 3)
+* THE EAST ALABAMA HEALTHCARE AUTHORITY (rating: 3)
+* ST. VINCENT'S EAST (rating: 3)
+
+However, the availability of specific memory care resources is not directly m",36.27,3978,0.002745,5,0.0,0.6,0.0,0.0,0.15
+2026-06-05T23:24:55.197927,agentic,T3_009,3,multi_hop,How does the evidence on antibiotic resistance relate to MRSA infection rates in Southern US states?,"The evidence on antibiotic resistance, as discussed in the provided context, does not directly relate to MRSA infection rates in Southern US states. The context mentions antibiotic resistance, antimicrobial selection, and infection rates in critical care settings, but it does not specifically address MRSA infection rates in the Southern US states.
+
+According to Source 1 (PubMed PMID:24887215), the study focuses on empiric antimicrobial selection for critical care infections, including ventilator",32.33,2990,0.002063,5,0.0,0.2,0.0,0.5,0.175
+2026-06-06T22:40:56.237371,agentic,T3_010,3,multi_hop,Which hospital types have the lowest CDI infection rates and what does the clinical literature say about CDI prevention?,"Based on the provided SQL results, acute care hospitals have the lowest CDI infection rates, with all listed hospitals having a CDI Standardized Infection Ratio (SIR) of 0.0. This indicates that these hospitals have no reported cases of CDI infection, suggesting a high level of effectiveness in their CDI prevention efforts.
+
+The clinical literature emphasizes the importance of preventing CDI in healthcare settings, highlighting strategies such as antibiotic stewardship, infection control practic",45.47,3568,0.002462,5,0.0,0.8,0.0,0.0,0.2
+2026-06-06T22:41:21.370371,agentic,T3_011,3,multi_hop,How do cardiovascular outcomes in diabetic patients relate to the quality of hospitals in states with high diabetes prevalence?,"Based on the provided context, it can be inferred that cardiovascular outcomes in diabetic patients are likely to be better in states with high-quality hospitals, as indicated by higher average ratings and lower infection rates. Conversely, states with high diabetes prevalence and poorer hospital quality might see worse cardiovascular outcomes due to suboptimal care.
+
+According to Source 1 (PubMed PMID:30368802), heart failure is a major public health problem, and the frequent rehospitalizations",22.86,4296,0.002964,5,0.0,0.8,0.6,0.4,0.45
+2026-06-06T22:42:06.209413,agentic,T3_012,3,multi_hop,What are the clinical risk factors for hospital acquired infections and which US regions show the highest HAI burden?,"The clinical risk factors for hospital-acquired infections include sepsis, antimicrobial resistance, and inadequate infection control practices, as well as specific types of infections such as ventilator-associated pneumonia (VAP), catheter-related bloodstream infection (CRBSI), Methicillin-Resistant Staphylococcus aureus (MRSA), Clostridioides difficile Infections (CDI), and Surgical Site Infections (SSI) (Source 1: PubMed PMID:17975201, Source 2: PubMed PMID:24887215, Source 3: PubMed PMID:231",37.63,4615,0.003184,5,0.0,0.5,0.2,0.4,0.275
+2026-06-06T22:42:50.007441,agentic,T3_013,3,multi_hop,"For patients with sepsis requiring ICU care, how do treatment protocols differ and which hospital quality metrics best predict survival?","For patients with sepsis requiring ICU care, treatment protocols may differ between hospitals, with some adhering to guidelines such as the Surviving Sepsis Campaign (SSC) and others not. However, studies have shown that adherence to these guidelines may not necessarily lead to better outcomes (Source 1 [PubMed PMID:27500722], Source 2 [PubMed PMID:40938144]).
+
+Hospital quality metrics, such as infection rates (CLABSI_SIR, CAUTI_SIR, MRSA_SIR, CDI_SIR, SSI_SIR) and overall ratings, may be associ",38.16,4274,0.002949,5,0.0,0.8,0.6,0.4,0.45
+2026-06-06T22:43:25.337199,agentic,T3_014,3,multi_hop,What is the relationship between early Alzheimer's intervention success rates and the availability of specialized hospitals in different states?,"Based on the provided context, there is no direct information or data that establishes a relationship between early Alzheimer's intervention success rates and the availability of specialized hospitals in different states. The context focuses on various aspects of Alzheimer's disease, including costs, factors influencing cognitive decline, and the impact of cerebrovascular disease, but does not address the specific question of how the availability of specialized hospitals affects early interventi",26.96,3256,0.002247,5,0.0,0.0,0.2,0.0,0.05

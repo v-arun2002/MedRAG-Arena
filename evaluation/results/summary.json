@@ -24,22 +24,50 @@
     }
   },
   "graph": {
-    "total_questions": 27,
-    "avg_latency_sec": 8.88,
-    "avg_cost_usd": 0.001027,
+    "total_questions": 48,
+    "avg_latency_sec": 6.58,
+    "avg_cost_usd": 0.000959,
     "avg_faithfulness": 0.0,
-    "avg_answer_relevancy": 0.6,
-    "avg_context_precision": 0.1852,
-    "avg_context_recall": 0.2111,
-    "avg_ragas_score": 0.2491,
+    "avg_answer_relevancy": 0.4875,
+    "avg_context_precision": 0.175,
+    "avg_context_recall": 0.1375,
+    "avg_ragas_score": 0.2,
     "by_tier": {
       "1": {
         "count": 18,
         "avg_ragas": 0.2347
       },
       "2": {
-        "count": 9,
-        "avg_ragas": 0.2778
+        "count": 16,
+        "avg_ragas": 0.1969
+      },
+      "3": {
+        "count": 14,
+        "avg_ragas": 0.1589
+      }
+    }
+  },
+  "agentic": {
+    "total_questions": 48,
+    "avg_latency_sec": 28.44,
+    "avg_cost_usd": 0.001642,
+    "avg_faithfulness": 0.0792,
+    "avg_answer_relevancy": 0.7812,
+    "avg_context_precision": 0.3687,
+    "avg_context_recall": 0.2792,
+    "avg_ragas_score": 0.3771,
+    "by_tier": {
+      "1": {
+        "count": 18,
+        "avg_ragas": 0.4861
+      },
+      "2": {
+        "count": 16,
+        "avg_ragas": 0.3688
+      },
+      "3": {
+        "count": 14,
+        "avg_ragas": 0.2464
       }
     }
   }
